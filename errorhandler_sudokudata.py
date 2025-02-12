@@ -14,4 +14,6 @@ class ErrorHandler:
                 if board[start_row + i][start_col + j] == num:
                     return f"Number {num} is repeated in the 3x3 box."
         return None
-
+class SudokuData:
+    def __init__(self):
+        # Predefined Sudoku boards for different difficulty levels
