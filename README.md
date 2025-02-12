@@ -1,2 +1,2 @@
 # sodoku.kellassor.py
-tamrin groohi sodoco by elahe and sonia 
+tamrin groohi sodoco by Elham and sonia 
