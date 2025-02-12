@@ -1,4 +1,3 @@
-
 class ErrorHandler:
     def check_error(self, board, row, col, num):
         # Check if the number is valid in the given row, column, and 3x3 box
@@ -15,3 +14,4 @@ class ErrorHandler:
                 if board[start_row + i][start_col + j] == num:
                     return f"Number {num} is repeated in the 3x3 box."
         return None
+
